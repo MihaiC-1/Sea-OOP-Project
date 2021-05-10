@@ -1,0 +1,8 @@
+Marea Neagra,43576
+Marea Azol,12456
+Marea Hispanica,17345
+Marea Marmara,35789
+Marea Xena,12345
+Marea Rosie,76234
+Marea Turca,28201
+Marea Umeda,9754
